@@ -1,2 +1,2 @@
 # gomoku_react
-Gomoku
+Gomoku by React
